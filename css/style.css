@@ -827,17 +827,17 @@ input:focus {
     justify-content: space-between;
 }
 .best-products .best-product-1 {
-    background-image: url(images/best-products-01.jpg);
+    background-image: url(https://hishamabualhaj.github.io/Ecommerce-Store/images/best-products-01.jpg);
     flex: 1;
     padding: 3% 5%;
 }
 .best-products .best-product-2{
-    background-image: url(images/best-products-03.jpg);
+    background-image: url(https://hishamabualhaj.github.io/Ecommerce-Store/images/best-products-03.jpg);
     padding: 55px 45px;
     flex-grow: 0.5;
 }
 .best-products .best-product-3 {
-    background-image: url(images/best-products-02.jpg);
+    background-image: url(https://hishamabualhaj.github.io/Ecommerce-Store/images/best-products-02.jpg);
     flex-grow: 0.3;
     padding: 55px 45px;
     align-items: flex-end;
@@ -982,13 +982,13 @@ input:focus {
     transition: 0.8s;
 }
 .news .news-container .news-card .img1{
-    background-image: url(images/news-01.jpg);
+    background-image: url(https://hishamabualhaj.github.io/Ecommerce-Store/images/news-01.jpg);
 }
 .news .news-container .news-card .img2{
-    background-image: url(images/news-02.jpg);
+    background-image: url(https://hishamabualhaj.github.io/Ecommerce-Store/images/news-02.jpg);
 }
 .news .news-container .news-card .img3{
-    background-image: url(images/news-03.jpg);
+    background-image: url(https://hishamabualhaj.github.io/Ecommerce-Store/images/news-03.jpg);
 }
 .news .news-container .news-card::before {
     content: '';
